@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @communionboy
-- 👀 I’m interested in Data Analysis and visualization
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data anlysis project and a little of machine learning
+- 👋 Hi, I’m Aladejebi Alex 
+- 👀 I’m interested in Creating ML models and Backend(FastAPI)
+- 🌱 I’m currently looking for growth opportunities 
+- 💞️ I’m looking to internship placement and junior roles
 - 📫 How to reach me aladejebialex@gmail.com or +2349031360050
 
 <!---
